@@ -161,4 +161,4 @@ cat /root/root.txt
 
 ---
 
-*Write-up for the HackTheBox "Kobold" machine.*
+
